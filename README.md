@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @xiaopan24
-- 👀 I’m interested in games
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m PanChen.
+- 👀 I’m interested in games(CS:GO).
+- 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
