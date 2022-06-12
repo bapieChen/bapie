@@ -7,8 +7,8 @@
 
 :house: **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working in repository lightcore.
-- 🌱 I’m currently learning C and Rust language.
+<!-- - 🔭 I’m currently working in repository lightcore. -->
+- 🌱 I’m currently learning C.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: bapie0503@gmail.com
