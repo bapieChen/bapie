@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=xiaopan24)
 
-:house: **Talking about Personal Stuffs:**
+<!-- :house: **Talking about Personal Stuffs:** -->
 
 <!-- - 🔭 I’m currently working in repository lightcore. -->
 - 🌱 I’m currently learning C.
