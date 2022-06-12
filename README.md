@@ -1,18 +1,11 @@
 ### Hi there, I'm Bapie
 
-<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/JohnSanpe) -->
-<!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/John_sanpe) -->
-
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=xiaopan24)
 
-<!-- :house: **Talking about Personal Stuffs:** -->
-
-<!-- - 🔭 I’m currently working in repository lightcore. -->
 - 🌱 I’m currently learning C.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: bapie0503@gmail.com
-
 
 📈 **My GitHub Stats:**
 
