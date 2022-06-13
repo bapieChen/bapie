@@ -11,6 +11,6 @@
 
 
 <p>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=xiaopan24&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaopan24&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=5"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=bapie-panchen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bapie-panchen&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=5"/>
 </p>
