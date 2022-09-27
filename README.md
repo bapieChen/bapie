@@ -2,7 +2,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=xiaopan24)
 
-- 🌱 I’m currently learning C/C++.
+- 🌱 I’m currently learning C/C++ and Java.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: bapie0503@gmail.com
