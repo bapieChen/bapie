@@ -1,6 +1,6 @@
 ### Hi there, I'm Bapie
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=xiaopan24)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=XchenPan)
 
 - 🌱 I’m currently learning C/C++ and Java.
 - 👯 I’m looking to collaborate on open source projects.
